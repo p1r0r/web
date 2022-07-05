@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+<html lang="pl">
+<head>
+<title>Błąd 404</title>
+<meta charset="utf-8" />	
+<meta name="author" content="Odee - odee.pl" />
+<meta name="viewport" content="width=1024" />
+
+<link rel="icon" type="image/png" href="css/error-page/images/icon.png">
+<link rel="stylesheet" type="text/css" href="css/error-page/style.css"  />
+
+<script type="text/javascript" src="css/error-page/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="css/error-page/cufon-yui.js"></script>
+<script type="text/javascript" src="css/error-page/Lato_700.font.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	Cufon.replace('.naglowek-error, .naglowek-error-opis, .footer-nag-1, .footer-nag-2, .footer-nag-3', { fontFamily: 'Lato', hover: {color: '#dc407f'}, });	
+	 });
+</script>
+</head>
+<body>
+
+<header id="wrapper">
+	<a href="http://www.odee.pl"><img src="css/error-page/images/logo.png" id="logo" alt="Logo" /></a>
+	<img src="css/error-page/images/logo_hr.png" class="logo-hr" alt="" />
+</header>	
+
+<section id="middle-wrapper">	
+	<div id="middle-left">
+		<img src="css/error-page/images/icon_error.png" class="icon-error" alt="" />
+	</div>
+	<div id="middle-right">
+		<div class="naglowek-error">Błąd 404</div>
+		<div class="naglowek-error-opis">Nie znaleziono - serwer nie odnalazł zasobu według podanego URL ani niczego co by wskazywało na istnienie takiego zasobu w przeszłości</div>
+	</div>
+</section>
+
+<footer>
+	<section id="footer-wrapper">
+		<div class="footer-nag-1">Potrzebujesz pomocy:</div>
+		<div class="footer-nag-2"><img src="css/error-page/images/footer_li.png" class="footer-li" alt="" />Telefon: +48 58 301 26 45</div>
+		<div class="footer-nag-3"><img src="css/error-page/images/footer_li.png" class="footer-li" alt="" />E-mail: <a href="mailto:biuro@odee.pl">biuro@odee.pl</div>
+		<img src="css/error-page/images/hr_down.png" class="hr-down" alt="" />
+	</section>
+</footer>
+
+</body>
+</html>

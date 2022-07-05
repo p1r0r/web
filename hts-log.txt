@@ -1,0 +1,335 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Feb 2021 20:01:31 at http://p1r0r.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://p1r0r.com/ -O1 "C:\Users\p1r0r\Desktop\p1r0r\p1r0r" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:01:32	Warning: 	Note: due to p1r0r.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+20:01:33	Warning: 	Found for p1r0r.com/
+20:01:33	Warning: 	File has moved from p1r0r.com/ to http://p1r0r.com/en/home
+20:23:47	Error: 	"Not Found" (404) at link p1r0r.com/wp-content/themes/gridstack/background.png (from p1r0r.com/wp-content/themes/gridstack/style.css?ver=1.3.0)
+20:23:47	Error: 	"Not Found" (404) at link p1r0r.com/wp-content/themes/gridstack/images/sprites-nivo.png (from p1r0r.com/wp-content/themes/gridstack/style.css?ver=1.3.0)
+20:23:47	Error: 	"Not Found" (404) at link p1r0r.com/wp-content/themes/gridstack/images/sprites-nivo-white.png (from p1r0r.com/wp-content/themes/gridstack/style.css?ver=1.3.0)
+20:23:47	Warning: 	Moved Permanently for p1r0r.com/?p=4803
+20:23:47	Warning: 	File has moved from p1r0r.com/?p=4803 to http://p1r0r.com/sobre-mi
+20:26:37	Warning: 	Retry after error -4 (Incorrect length (529641 Bytes, 625366 expected)) at link p1r0r.com/wp-content/uploads/2018/03/mozart-in-the-jungle-poster-21.jpg (from p1r0r.com/blog)
+20:26:44	Warning: 	Retry after error -4 (Incorrect length (536979 Bytes, 1341051 expected)) at link p1r0r.com/wp-content/uploads/2018/03/Al_Yazirat_recreación_011.png (from p1r0r.com/blog)
+20:28:39	Warning: 	Retry after error -4 (Incorrect length (600048 Bytes, 716655 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Asfalto-mojadoWP.jpg (from p1r0r.com/blog)
+20:30:56	Warning: 	Moved Permanently for p1r0r.com/?p=5022
+20:30:56	Warning: 	File has moved from p1r0r.com/?p=5022 to http://p1r0r.com/en/portfolio/simpleroom
+20:33:27	Warning: 	Moved Permanently for p1r0r.com/?p=4055
+20:33:27	Warning: 	File has moved from p1r0r.com/?p=4055 to http://p1r0r.com/en/portfolio/snailrun
+20:33:33	Warning: 	Moved Permanently for p1r0r.com/?p=4710
+20:33:33	Warning: 	File has moved from p1r0r.com/?p=4710 to http://p1r0r.com/en/portfolio/european-voluntary-service
+20:33:36	Warning: 	Retry after error -4 (Incorrect length (133192 Bytes, 241159 expected)) at link p1r0r.com/wp-content/uploads/2018/05/DresdenLandscape.jpg (from p1r0r.com/en/portfolio/european-voluntary-service)
+20:33:45	Warning: 	Retry after error -4 (Incorrect length (163491 Bytes, 249913 expected)) at link p1r0r.com/wp-content/uploads/2018/05/IMG_0410-1500x1125.jpg (from p1r0r.com/en/portfolio/european-voluntary-service)
+20:33:48	Warning: 	Moved Permanently for p1r0r.com/?p=4728
+20:33:48	Warning: 	File has moved from p1r0r.com/?p=4728 to http://p1r0r.com/en/portfolio/engineering-company
+20:33:51	Warning: 	Retry after error -4 (Incorrect length (2184829 Bytes, 2262893 expected)) at link p1r0r.com/wp-content/uploads/2018/05/EngiCompa.jpg (from p1r0r.com/en/portfolio/engineering-company)
+20:33:52	Warning: 	Moved Permanently for p1r0r.com/?p=4737
+20:33:52	Warning: 	File has moved from p1r0r.com/?p=4737 to http://p1r0r.com/en/portfolio/meyza
+20:33:54	Warning: 	Retry after error -4 (Incorrect length (3841100 Bytes, 3927386 expected)) at link p1r0r.com/wp-content/uploads/2018/05/meyzaweb.png (from p1r0r.com/en/portfolio/meyza)
+20:33:55	Warning: 	Retry after error -4 (Incorrect length (3428113 Bytes, 3552407 expected)) at link p1r0r.com/wp-content/uploads/2018/05/meyzaweb2.png (from p1r0r.com/en/portfolio/meyza)
+20:33:56	Warning: 	Moved Permanently for p1r0r.com/?p=4746
+20:33:56	Warning: 	File has moved from p1r0r.com/?p=4746 to http://p1r0r.com/en/portfolio/sogno-messinese
+20:34:00	Warning: 	Retry after error -4 (Incorrect length (2134935 Bytes, 2689688 expected)) at link p1r0r.com/wp-content/uploads/2018/07/IMG_2879.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:34:01	Warning: 	Retry after error -4 (Incorrect length (1326462 Bytes, 1432503 expected)) at link p1r0r.com/wp-content/uploads/2018/07/IMG_2884.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:34:07	Warning: 	Retry after error -4 (Incorrect length (4186414 Bytes, 4256127 expected)) at link p1r0r.com/wp-content/uploads/2018/07/DSC_0139.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:34:14	Warning: 	Retry after error -4 (Incorrect length (133699 Bytes, 241877 expected)) at link p1r0r.com/wp-content/uploads/2018/07/DSC_0139-1500x1004.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:41:45	Warning: 	Retry after error -4 (Incorrect length (138580 Bytes, 220018 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Maschera.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:41:58	Warning: 	Retry after error -4 (Incorrect length (601213 Bytes, 730033 expected)) at link p1r0r.com/wp-content/uploads/2018/07/20160504_080607275_iOS.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:48:01	Warning: 	Moved Permanently for p1r0r.com/?p=4058
+20:48:01	Warning: 	File has moved from p1r0r.com/?p=4058 to http://p1r0r.com/en/portfolio/milano
+20:48:03	Warning: 	Moved Permanently for p1r0r.com/?p=4038
+20:48:03	Warning: 	File has moved from p1r0r.com/?p=4038 to http://p1r0r.com/en/portfolio/just-internship
+20:48:07	Warning: 	Moved Permanently for p1r0r.com/?p=4988
+20:48:07	Warning: 	File has moved from p1r0r.com/?p=4988 to http://p1r0r.com/en/portfolio/fashion-2
+20:48:08	Warning: 	Moved Permanently for p1r0r.com/?p=4986
+20:48:08	Warning: 	File has moved from p1r0r.com/?p=4986 to http://p1r0r.com/en/portfolio/travel-2
+20:48:10	Warning: 	Moved Permanently for p1r0r.com/?p=4652
+20:48:10	Warning: 	File has moved from p1r0r.com/?p=4652 to http://p1r0r.com/en/vikingued-algeciras
+20:48:10	Warning: 	Retry after error -4 (Incorrect length (132880 Bytes, 207763 expected)) at link p1r0r.com/wp-content/uploads/2018/03/Cora_de_algeciras1.jpg (from p1r0r.com/en/vikingued-algeciras)
+20:49:15	Warning: 	Moved Permanently for p1r0r.com/?p=4684
+20:49:15	Warning: 	File has moved from p1r0r.com/?p=4684 to http://p1r0r.com/en/saga-is-ready-to-play
+20:49:26	Warning: 	Retry after error -4 (Incorrect length (1191397 Bytes, 1285819 expected)) at link p1r0r.com/wp-content/uploads/2018/03/tumblr_p0v0mqmcO91s9f5e5o1_12801.png (from p1r0r.com/en/saga-is-ready-to-play)
+20:49:28	Warning: 	Moved Permanently for p1r0r.com/?p=4672
+20:49:28	Warning: 	File has moved from p1r0r.com/?p=4672 to http://p1r0r.com/en/an-oboe-in-the-amazon
+20:49:37	Error: 	"Not Found" (404) at link p1r0r.com/en/tag/teatro-vittorio-emanuele (from p1r0r.com/en/an-oboe-in-the-amazon)
+20:51:38	Error: 	"Bad Request" (400) at link i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Klovn.jpg (from p1r0r.com/en/category/audiovisual-en)
+20:51:53	Error: 	"Service Temporarily Unavailable" (503) at link https://in.bookmyshow.com/entertainment/wp-content/uploads/image/B-Town%20Buzz/Deepa%20Mehta.jpg (from p1r0r.com/en/category/bollywood-en)
+20:52:30	Error: 	"Not Found" (404) at link https://pmcdeadline2.files.wordpress.com/2013/09/aaron-sorkin__130614064500.jpg (from p1r0r.com/en/category/serie-tv-en)
+20:52:30	Warning: 	Moved Permanently for p1r0r.com/?p=4801
+20:52:30	Warning: 	File has moved from p1r0r.com/?p=4801 to http://p1r0r.com/en/about-me
+20:52:30	Warning: 	Moved Permanently for p1r0r.com/?p=415
+20:52:30	Warning: 	File has moved from p1r0r.com/?p=415 to http://p1r0r.com/contact
+20:52:30	Warning: 	Moved Permanently for p1r0r.com/?p=4889
+20:52:30	Warning: 	File has moved from p1r0r.com/?p=4889 to http://p1r0r.com/el-poder-danes-audiovisual
+20:53:19	Warning: 	Moved Permanently for p1r0r.com/?p=4885
+20:53:19	Warning: 	File has moved from p1r0r.com/?p=4885 to http://p1r0r.com/sinverguenza
+20:53:38	Warning: 	Moved Permanently for p1r0r.com/?p=4855
+20:53:38	Warning: 	File has moved from p1r0r.com/?p=4855 to http://p1r0r.com/cortes-daneses
+20:54:49	Warning: 	Retry after error -4 (Incorrect length (268222 Bytes, 383409 expected)) at link p1r0r.com/wp-content/uploads/2016/07/cavalleria-locandina1.jpg (from p1r0r.com/category/art-es)
+20:55:58	Error: 	"Not Found" (404) at link p1r0r.com/category/culture (from p1r0r.com/en/en-blog)
+20:55:59	Error: 	"Not Found" (404) at link p1r0r.com/category/europe (from p1r0r.com/en/en-blog)
+20:55:59	Error: 	"Not Found" (404) at link p1r0r.com/category/world (from p1r0r.com/en/en-blog)
+20:56:00	Error: 	"Not Found" (404) at link p1r0r.com/category/art (from p1r0r.com/en/en-blog)
+20:56:00	Error: 	"Not Found" (404) at link p1r0r.com/category/cinema (from p1r0r.com/en/en-blog)
+20:56:09	Warning: 	Moved Permanently for p1r0r.com/?p=4827
+20:56:09	Warning: 	File has moved from p1r0r.com/?p=4827 to http://p1r0r.com/es-un-oboe-en-el-amazonas
+20:56:18	Warning: 	Moved Permanently for p1r0r.com/?p=4829
+20:56:18	Warning: 	File has moved from p1r0r.com/?p=4829 to http://p1r0r.com/algeciras-vikingada
+20:56:23	Warning: 	Retry after error -4 (Incorrect length (802394 Bytes, 1341051 expected)) at link p1r0r.com/wp-content/uploads/2018/03/Al_Yazirat_recreación_011.png (from p1r0r.com/blog)
+20:56:23	Warning: 	Moved Permanently for p1r0r.com/?p=4814
+20:56:23	Warning: 	File has moved from p1r0r.com/?p=4814 to http://p1r0r.com/4814-2
+20:56:23	Warning: 	Moved Permanently for p1r0r.com/?p=4831
+20:56:23	Warning: 	File has moved from p1r0r.com/?p=4831 to http://p1r0r.com/cusualidades-de-vuelta
+20:56:32	Warning: 	Moved Permanently for p1r0r.com/?p=4835
+20:56:32	Warning: 	File has moved from p1r0r.com/?p=4835 to http://p1r0r.com/la-vara-2
+20:56:32	Warning: 	Retry after error -4 (Incorrect length (333064 Bytes, 407042 expected)) at link p1r0r.com/wp-content/uploads/2016/09/MecanismoWP.jpg (from p1r0r.com/la-vara-2)
+20:56:33	Warning: 	Retry after error -4 (Incorrect length (133308 Bytes, 247713 expected)) at link p1r0r.com/wp-content/uploads/2016/09/HermandadWP.jpg (from p1r0r.com/la-vara-2)
+20:56:34	Error: 	"Not Found" (404) at link www.varamessina.it/public%5Cfoto/vara%5C2006/var060075.JPG (from p1r0r.com/la-vara-2)
+20:56:34	Warning: 	Retry after error -4 (Incorrect length (199105 Bytes, 274464 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Fuegos-ArtificialesWP.jpg (from p1r0r.com/la-vara-2)
+20:57:09	Warning: 	Moved Permanently for p1r0r.com/?p=4837
+20:57:09	Warning: 	File has moved from p1r0r.com/?p=4837 to http://p1r0r.com/cabalgata-de-los-gigantes
+20:57:09	Warning: 	Retry after error -4 (Incorrect length (198995 Bytes, 302965 expected)) at link p1r0r.com/wp-content/uploads/2016/09/PiazzaEuropa.jpg (from p1r0r.com/cabalgata-de-los-gigantes)
+20:57:09	Error: 	"Unauthorized" (401) at link https://www.scirokko.it/wp-content/uploads/2015/08/mata.jpg (from p1r0r.com/cabalgata-de-los-gigantes)
+20:57:09	Error: 	"Unauthorized" (401) at link https://www.scirokko.it/wp-content/uploads/2015/08/grifone.jpg (from p1r0r.com/cabalgata-de-los-gigantes)
+20:57:14	Warning: 	Moved Permanently for p1r0r.com/?p=4355
+20:57:14	Warning: 	File has moved from p1r0r.com/?p=4355 to http://p1r0r.com/en/la-vara
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/culture (from p1r0r.com/en/la-vara)
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/italia (from p1r0r.com/en/la-vara)
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/italy (from p1r0r.com/en/la-vara)
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/messina (from p1r0r.com/en/la-vara)
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/sicilia (from p1r0r.com/en/la-vara)
+20:57:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/sicily (from p1r0r.com/en/la-vara)
+20:57:15	Error: 	"Not Found" (404) at link p1r0r.com/tag/traditions (from p1r0r.com/en/la-vara)
+20:57:15	Warning: 	Moved Permanently for p1r0r.com/?p=4843
+20:57:15	Warning: 	File has moved from p1r0r.com/?p=4843 to http://p1r0r.com/concierto-en-el-cementerio
+20:57:15	Warning: 	Retry after error -4 (Incorrect length (363171 Bytes, 478272 expected)) at link p1r0r.com/wp-content/uploads/2016/09/20160608_164046000_iOS.jpg (from p1r0r.com/concierto-en-el-cementerio)
+20:57:15	Warning: 	Retry after error -4 (Incorrect length (397670 Bytes, 472229 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Desde-Abajo.jpg (from p1r0r.com/concierto-en-el-cementerio)
+20:57:16	Warning: 	Retry after error -4 (Incorrect length (1324312 Bytes, 1449061 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Desde-Arriba.jpg (from p1r0r.com/concierto-en-el-cementerio)
+20:57:24	Warning: 	Retry after error -4 (Incorrect length (176494 Bytes, 293893 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Desde-Arriba-1500x571.jpg (from p1r0r.com/concierto-en-el-cementerio)
+20:57:27	Warning: 	Retry after error -4 (Incorrect length (265100 Bytes, 347409 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Panteones.jpg (from p1r0r.com/concierto-en-el-cementerio)
+20:57:50	Warning: 	Moved Permanently for p1r0r.com/?p=5013
+20:57:50	Warning: 	File has moved from p1r0r.com/?p=5013 to http://p1r0r.com/portfolio/simpleroom-2
+20:57:50	Warning: 	Retry after error -4 (Incorrect length (794439 Bytes, 885194 expected)) at link p1r0r.com/wp-content/uploads/2019/02/Cam_Gen.jpg (from p1r0r.com/portfolio/simpleroom-2)
+20:57:50	Warning: 	Retry after error -4 (Incorrect length (992944 Bytes, 1070369 expected)) at link p1r0r.com/wp-content/uploads/2019/02/Cam_UpDesk.jpg (from p1r0r.com/portfolio/simpleroom-2)
+20:57:50	Warning: 	Retry after error -4 (Incorrect length (265520 Bytes, 334304 expected)) at link p1r0r.com/wp-content/uploads/2019/02/Cam_Bed.jpg (from p1r0r.com/portfolio/simpleroom-2)
+20:57:50	Warning: 	Retry after error -4 (Incorrect length (463828 Bytes, 564476 expected)) at link p1r0r.com/wp-content/uploads/2019/02/Cam_Desk.jpg (from p1r0r.com/portfolio/simpleroom-2)
+20:58:00	Warning: 	Moved Permanently for p1r0r.com/?p=4990
+20:58:00	Warning: 	File has moved from p1r0r.com/?p=4990 to http://p1r0r.com/en/portfolio/portraits
+20:58:03	Warning: 	Moved Permanently for p1r0r.com/?p=4955
+20:58:03	Warning: 	File has moved from p1r0r.com/?p=4955 to http://p1r0r.com/portfolio/snailrun-2
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4051
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4051 to http://p1r0r.com/en/portfolio/still
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4951
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4951 to http://p1r0r.com/portfolio/servicio-de-voluntariado-europeo
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4949
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4949 to http://p1r0r.com/portfolio/compania-de-ingenieria
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4979
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4979 to http://p1r0r.com/portfolio/4979
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4964
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4964 to http://p1r0r.com/portfolio/es-sogno-messinese
+20:58:05	Warning: 	Retry after error -4 (Incorrect length (2598422 Bytes, 2689688 expected)) at link p1r0r.com/wp-content/uploads/2018/07/IMG_2879.jpg (from p1r0r.com/en/portfolio/sogno-messinese)
+20:58:05	Warning: 	Moved Permanently for p1r0r.com/?p=4420
+20:58:05	Warning: 	File has moved from p1r0r.com/?p=4420 to http://p1r0r.com/en/la-maschera-e-lattaccapanni
+20:58:05	Warning: 	Retry after error -4 (Incorrect length (337509 Bytes, 408535 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPToscano.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:05	Warning: 	Retry after error -4 (Incorrect length (132865 Bytes, 246705 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WP01Saverio.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:05	Error: 	"Not Found" (404) at link www.scomunicando.it/notizie/wp-content/uploads/2016/06/valentini-1.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:05	Warning: 	Retry after error -4 (Incorrect length (268443 Bytes, 363456 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPGianni-CORO.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:16	Warning: 	Retry after error -4 (Incorrect length (538762 Bytes, 648991 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WpMúsicos.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:19	Warning: 	Retry after error -4 (Incorrect length (346320 Bytes, 452332 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPRenzo-Palcoscenico.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:21	Warning: 	Retry after error -4 (Incorrect length (278551 Bytes, 372719 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPSantino.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:22	Warning: 	Retry after error -4 (Incorrect length (390815 Bytes, 494005 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPGlue.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:33	Warning: 	Retry after error -4 (Incorrect length (335071 Bytes, 437096 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPCornice.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:36	Warning: 	Retry after error -4 (Incorrect length (199041 Bytes, 312690 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPGrafica.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:37	Warning: 	Retry after error -4 (Incorrect length (265560 Bytes, 358279 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPIMG_1709.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:39	Warning: 	Retry after error -4 (Incorrect length (529822 Bytes, 614664 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPIMG_1691.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:50	Warning: 	Retry after error -4 (Incorrect length (205286 Bytes, 290547 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPRiverFlowu.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:52	Warning: 	Retry after error -4 (Incorrect length (271190 Bytes, 399366 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPPiano.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:53	Warning: 	Retry after error -4 (Incorrect length (463865 Bytes, 575299 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPSiSignore.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:58:54	Warning: 	Retry after error -4 (Incorrect length (331652 Bytes, 408495 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WP-DANZA.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:04	Warning: 	Retry after error -4 (Incorrect length (331417 Bytes, 447910 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPDanza.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:07	Warning: 	Retry after error -4 (Incorrect length (199503 Bytes, 312385 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPAttacapanni.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:11	Warning: 	Retry after error -4 (Incorrect length (135917 Bytes, 265684 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPChicasAntes.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:12	Warning: 	Retry after error -4 (Incorrect length (397246 Bytes, 473107 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Locandina.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:23	Warning: 	Retry after error -4 (Incorrect length (596199 Bytes, 664995 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WP-GiuGia-e-Momi.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:25	Warning: 	Retry after error -4 (Incorrect length (728414 Bytes, 827713 expected)) at link p1r0r.com/wp-content/uploads/2016/09/RecorteProgetto.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:25	Warning: 	Retry after error -4 (Incorrect length (926960 Bytes, 995527 expected)) at link p1r0r.com/wp-content/uploads/2016/09/WPFoto-Final.jpg (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:32	Error: 	"Not Found" (404) at link p1r0r.com/tag/art (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:32	Error: 	"Not Found" (404) at link p1r0r.com/tag/europe (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:32	Error: 	"Not Found" (404) at link p1r0r.com/tag/teatro-vittorio-emanuele (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:32	Error: 	"Not Found" (404) at link p1r0r.com/tag/theatre (from p1r0r.com/en/la-maschera-e-lattaccapanni)
+20:59:32	Warning: 	Moved Permanently for p1r0r.com/?p=4292
+20:59:32	Warning: 	File has moved from p1r0r.com/?p=4292 to http://p1r0r.com/en/cemetery-concert
+20:59:45	Warning: 	Moved Permanently for p1r0r.com/?p=4380
+20:59:45	Warning: 	File has moved from p1r0r.com/?p=4380 to http://p1r0r.com/en/indimenticabile
+20:59:45	Warning: 	Retry after error -4 (Incorrect length (331506 Bytes, 434726 expected)) at link p1r0r.com/wp-content/uploads/2016/09/DANZAORQ.jpg (from p1r0r.com/en/indimenticabile)
+20:59:47	Warning: 	Retry after error -4 (Incorrect length (728387 Bytes, 843513 expected)) at link p1r0r.com/wp-content/uploads/2016/09/DANZAORQ2.jpg (from p1r0r.com/en/indimenticabile)
+20:59:48	Warning: 	Retry after error -4 (Incorrect length (133210 Bytes, 249054 expected)) at link p1r0r.com/wp-content/uploads/2016/09/EnsayoEntradaWP.jpg (from p1r0r.com/en/indimenticabile)
+20:59:55	Warning: 	Retry after error -4 (Incorrect length (199475 Bytes, 315010 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Sinsosos.jpg (from p1r0r.com/en/indimenticabile)
+21:00:01	Warning: 	Retry after error -4 (Incorrect length (463939 Bytes, 562806 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Llegada-TeatroWP.jpg (from p1r0r.com/en/indimenticabile)
+21:00:06	Warning: 	Retry after error -4 (Incorrect length (728089 Bytes, 853863 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Desde-Arriba-TAOWP.jpg (from p1r0r.com/en/indimenticabile)
+21:00:07	Warning: 	Retry after error -4 (Incorrect length (397322 Bytes, 515798 expected)) at link p1r0r.com/wp-content/uploads/2016/09/Abajo-Prova.jpg (from p1r0r.com/en/indimenticabile)
+21:00:14	Warning: 	Retry after error -4 (Incorrect length (662053 Bytes, 748529 expected)) at link p1r0r.com/wp-content/uploads/2016/07/Piazza.jpg (from p1r0r.com/en/indimenticabile)
+21:00:17	Error: 	"Forbidden" (403) at link https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/13241145_1674607016111375_7379248411640585091_n.jpg?oh=80123cdafcd038b59172d59b4254c88b&oe=586F1A4F (from p1r0r.com/en/indimenticabile)
+21:00:17	Warning: 	Retry after error -4 (Incorrect length (204882 Bytes, 314713 expected)) at link p1r0r.com/wp-content/uploads/2016/07/Spetta2WP.jpg (from p1r0r.com/en/indimenticabile)
+21:00:26	Warning: 	Retry after error -4 (Incorrect length (265366 Bytes, 394273 expected)) at link p1r0r.com/wp-content/uploads/2016/07/SPETTMED.jpg (from p1r0r.com/en/indimenticabile)
+21:00:26	Warning: 	Retry after error -4 (Incorrect length (265158 Bytes, 389582 expected)) at link p1r0r.com/wp-content/uploads/2016/07/SpettaWP.jpg (from p1r0r.com/en/indimenticabile)
+21:00:28	Error: 	"Forbidden" (403) at link https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/13532762_1689103324661744_2793407414991100247_n.jpg?oh=1e1902ec9365709d0067483f821e2929&oe=586597D6 (from p1r0r.com/en/indimenticabile)
+21:00:28	Warning: 	Retry after error -4 (Incorrect length (265626 Bytes, 385544 expected)) at link p1r0r.com/wp-content/uploads/2016/07/Yo-TAO.jpg (from p1r0r.com/en/indimenticabile)
+21:00:35	Error: 	"Not Found" (404) at link p1r0r.com/category/opera (from p1r0r.com/en/indimenticabile)
+21:00:35	Error: 	"Not Found" (404) at link p1r0r.com/tag/audiovisual (from p1r0r.com/en/indimenticabile)
+21:00:35	Error: 	"Not Found" (404) at link p1r0r.com/tag/film (from p1r0r.com/en/indimenticabile)
+21:00:35	Error: 	"Not Found" (404) at link p1r0r.com/tag/opera (from p1r0r.com/en/indimenticabile)
+21:00:36	Warning: 	Moved Permanently for p1r0r.com/?p=4246
+21:00:36	Warning: 	File has moved from p1r0r.com/?p=4246 to http://p1r0r.com/en/first-notes-about-light-design
+21:00:36	Warning: 	Retry after error -4 (Incorrect length (333835 Bytes, 464938 expected)) at link p1r0r.com/wp-content/uploads/2016/09/CaspitaRenzo.jpg (from p1r0r.com/en/first-notes-about-light-design)
+21:00:46	Warning: 	Retry after error -4 (Incorrect length (265461 Bytes, 371902 expected)) at link p1r0r.com/wp-content/uploads/2016/07/PiesRenzo-Foco.jpg (from p1r0r.com/en/first-notes-about-light-design)
+21:00:47	Warning: 	Retry after error -4 (Incorrect length (133424 Bytes, 227311 expected)) at link p1r0r.com/wp-content/uploads/2016/09/IMG_2317.jpg (from p1r0r.com/en/first-notes-about-light-design)
+21:00:47	Warning: 	Retry after error -4 (Incorrect length (464190 Bytes, 594045 expected)) at link p1r0r.com/wp-content/uploads/2016/09/TIPOSFOCOS.jpg (from p1r0r.com/en/first-notes-about-light-design)
+21:00:57	Error: 	"Not Found" (404) at link p1r0r.com/en/tag/light-design (from p1r0r.com/en/first-notes-about-light-design)
+21:01:14	Warning: 	Moved Permanently for p1r0r.com/?p=4953
+21:01:14	Warning: 	File has moved from p1r0r.com/?p=4953 to http://p1r0r.com/portfolio/milano-2
+21:01:14	Warning: 	Moved Permanently for p1r0r.com/?p=4961
+21:01:14	Warning: 	File has moved from p1r0r.com/?p=4961 to http://p1r0r.com/portfolio/just
+21:01:16	Warning: 	Moved Permanently for p1r0r.com/?p=4044
+21:01:16	Warning: 	File has moved from p1r0r.com/?p=4044 to http://p1r0r.com/en/portfolio/temaflor
+21:01:16	Warning: 	Moved Permanently for p1r0r.com/?p=4034
+21:01:16	Warning: 	File has moved from p1r0r.com/?p=4034 to http://p1r0r.com/portfolio/fashion
+21:01:16	Warning: 	Moved Permanently for p1r0r.com/?p=4010
+21:01:16	Warning: 	File has moved from p1r0r.com/?p=4010 to http://p1r0r.com/portfolio/travel
+21:01:22	Warning: 	Moved Permanently for p1r0r.com/?p=3813
+21:01:22	Warning: 	File has moved from p1r0r.com/?p=3813 to http://p1r0r.com/en/that-creepy-yellow-line
+21:01:24	Warning: 	Moved Permanently for p1r0r.com/?p=4537
+21:01:24	Warning: 	File has moved from p1r0r.com/?p=4537 to http://p1r0r.com/en/returning-coincidences
+21:01:42	Warning: 	Moved Permanently for p1r0r.com/?p=4523
+21:01:42	Warning: 	File has moved from p1r0r.com/?p=4523 to http://p1r0r.com/en/mooc-mooc
+21:02:04	Warning: 	Moved Permanently for p1r0r.com/?p=4198
+21:02:04	Warning: 	File has moved from p1r0r.com/?p=4198 to http://p1r0r.com/en/bitseller-shortfilm
+21:02:04	Error: 	"Not Found" (404) at link https://www.genomaanimation.com/imagenes/galeriasCabeceras/home/img01.jpg (from p1r0r.com/en/bitseller-shortfilm)
+21:02:08	Warning: 	Moved Permanently for p1r0r.com/?p=3843
+21:02:08	Warning: 	File has moved from p1r0r.com/?p=3843 to http://p1r0r.com/en/fantastically-growing
+21:02:14	Warning: 	Moved Permanently for p1r0r.com/?p=3806
+21:02:14	Warning: 	File has moved from p1r0r.com/?p=3806 to http://p1r0r.com/en/the-bear-the-hare
+21:02:25	Warning: 	Moved Permanently for p1r0r.com/?p=3763
+21:02:25	Warning: 	File has moved from p1r0r.com/?p=3763 to http://p1r0r.com/en/more-pixels
+21:02:41	Warning: 	Moved Permanently for p1r0r.com/?p=4171
+21:02:41	Warning: 	File has moved from p1r0r.com/?p=4171 to http://p1r0r.com/en/loving-vincent
+21:02:41	Error: 	"Not Found" (404) at link join.lovingvincent.com/photos/p_01.jpg (from p1r0r.com/en/loving-vincent)
+21:02:41	Warning: 	Moved Permanently for p1r0r.com/?p=4155
+21:02:41	Warning: 	File has moved from p1r0r.com/?p=4155 to http://p1r0r.com/en/tuning-up-the-instruments
+21:02:41	Error: 	"Not Found" (404) at link https://d1bq5g7z9i92ue.cloudfront.net/pictures/12/14/121449/Antonio-Pappano-c-M-Ianniello-EMI-Classics.jpg (from p1r0r.com/en/tuning-up-the-instruments)
+21:02:41	Warning: 	Moved Permanently for p1r0r.com/?p=4150
+21:02:41	Warning: 	File has moved from p1r0r.com/?p=4150 to http://p1r0r.com/en/let-the-play-begin
+21:02:44	Warning: 	Moved Permanently for p1r0r.com/?p=4191
+21:02:44	Warning: 	File has moved from p1r0r.com/?p=4191 to http://p1r0r.com/en/how-to-be-a-clown-manual
+21:02:44	Warning: 	Retry after error -4 (Connect Error) at link s1.cinema.com/image_lib/634_5770.jpg (from p1r0r.com/en/how-to-be-a-clown-manual)
+21:02:44	Warning: 	Moved Permanently for p1r0r.com/?p=4135
+21:02:44	Warning: 	File has moved from p1r0r.com/?p=4135 to http://p1r0r.com/en/shameless
+21:02:45	Warning: 	Moved Permanently for p1r0r.com/?p=3760
+21:02:45	Warning: 	File has moved from p1r0r.com/?p=3760 to http://p1r0r.com/en/because-he-worth-it
+21:02:47	Warning: 	Moved Permanently for p1r0r.com/?p=3697
+21:02:47	Warning: 	File has moved from p1r0r.com/?p=3697 to http://p1r0r.com/en/the-road-to-something
+21:03:17	Warning: 	Moved Permanently for p1r0r.com/?p=3798
+21:03:17	Warning: 	File has moved from p1r0r.com/?p=3798 to http://p1r0r.com/en/danish-slices
+21:03:20	Warning: 	Moved Permanently for p1r0r.com/?p=4346
+21:03:20	Warning: 	File has moved from p1r0r.com/?p=4346 to http://p1r0r.com/en/es-cabalgata-de-los-gigantes-mata-e-grifone
+21:03:21	Warning: 	Moved Permanently for p1r0r.com/?p=4208
+21:03:21	Warning: 	File has moved from p1r0r.com/?p=4208 to http://p1r0r.com/en/pattern-patron
+21:03:21	Warning: 	Retry after error -4 (Incorrect length (1017990 Bytes, 1091859 expected)) at link p1r0r.com/wp-content/uploads/2016/03/INFOLANGENG.jpg (from p1r0r.com/en/pattern-patron)
+21:03:21	Warning: 	Retry after error -4 (Incorrect length (992859 Bytes, 1107063 expected)) at link p1r0r.com/wp-content/uploads/2016/03/INFOLANGSPA.jpg (from p1r0r.com/en/pattern-patron)
+21:03:23	Warning: 	Moved Permanently for p1r0r.com/?p=3791
+21:03:23	Warning: 	File has moved from p1r0r.com/?p=3791 to http://p1r0r.com/en/chains-chains-chains
+21:03:32	Warning: 	Moved Permanently for p1r0r.com/?p=3776
+21:03:32	Warning: 	File has moved from p1r0r.com/?p=3776 to http://p1r0r.com/en/changing-places
+21:03:33	Warning: 	Moved Permanently for p1r0r.com/?p=3835
+21:03:33	Warning: 	File has moved from p1r0r.com/?p=3835 to http://p1r0r.com/en/danish-hand-power
+21:03:34	Warning: 	Moved Permanently for p1r0r.com/?p=3756
+21:03:34	Warning: 	File has moved from p1r0r.com/?p=3756 to http://p1r0r.com/en/i-cook-i-eat-it
+21:03:47	Warning: 	Moved Permanently for p1r0r.com/?p=4833
+21:03:47	Warning: 	File has moved from p1r0r.com/?p=4833 to http://p1r0r.com/mooc-mooc-2
+21:03:59	Warning: 	Moved Permanently for p1r0r.com/?p=4849
+21:03:59	Warning: 	File has moved from p1r0r.com/?p=4849 to http://p1r0r.com/bitseller-cortometraje
+21:04:02	Warning: 	Moved Permanently for p1r0r.com/?p=4865
+21:04:02	Warning: 	File has moved from p1r0r.com/?p=4865 to http://p1r0r.com/el-oso-y-la-liebre
+21:04:11	Warning: 	Moved Permanently for p1r0r.com/?p=4867
+21:04:11	Warning: 	File has moved from p1r0r.com/?p=4867 to http://p1r0r.com/mas-pixels
+21:04:17	Warning: 	Moved Permanently for p1r0r.com/?p=4873
+21:04:17	Warning: 	File has moved from p1r0r.com/?p=4873 to http://p1r0r.com/blinky-2
+21:04:21	Warning: 	Moved Permanently for p1r0r.com/?p=4875
+21:04:21	Warning: 	File has moved from p1r0r.com/?p=4875 to http://p1r0r.com/8bit-2
+21:04:27	Warning: 	Moved Permanently for p1r0r.com/?p=4879
+21:04:27	Warning: 	File has moved from p1r0r.com/?p=4879 to http://p1r0r.com/loving-vicent
+21:04:27	Warning: 	Moved Permanently for p1r0r.com/?p=4841
+21:04:27	Warning: 	File has moved from p1r0r.com/?p=4841 to http://p1r0r.com/indimenticabile-2
+21:04:27	Warning: 	Moved Permanently for p1r0r.com/?p=4839
+21:04:27	Warning: 	File has moved from p1r0r.com/?p=4839 to http://p1r0r.com/primeras-notas-sobre-diseno-de-luz-escenica
+21:04:32	Warning: 	Moved Permanently for p1r0r.com/?p=4845
+21:04:32	Warning: 	File has moved from p1r0r.com/?p=4845 to http://p1r0r.com/la-maschera-e-lattaccapanni-2
+21:04:32	Warning: 	Moved Permanently for p1r0r.com/?p=4881
+21:04:32	Warning: 	File has moved from p1r0r.com/?p=4881 to http://p1r0r.com/afinando-instrumentos
+21:04:32	Warning: 	Moved Permanently for p1r0r.com/?p=4883
+21:04:32	Warning: 	File has moved from p1r0r.com/?p=4883 to http://p1r0r.com/que-empiece-la-funcion
+21:04:34	Warning: 	Moved Permanently for p1r0r.com/?p=4877
+21:04:34	Warning: 	File has moved from p1r0r.com/?p=4877 to http://p1r0r.com/manual-de-como-ser-un-payaso
+21:04:36	Warning: 	Moved Permanently for p1r0r.com/?p=4863
+21:04:36	Warning: 	File has moved from p1r0r.com/?p=4863 to http://p1r0r.com/porque-el-lo-vale
+21:04:38	Warning: 	Moved Permanently for p1r0r.com/?p=4871
+21:04:38	Warning: 	File has moved from p1r0r.com/?p=4871 to http://p1r0r.com/el-camino-a-algo
+21:04:41	Warning: 	Moved Permanently for p1r0r.com/?p=4859
+21:04:41	Warning: 	File has moved from p1r0r.com/?p=4859 to http://p1r0r.com/yo-me-lo-cocino-yo-me-lo-como
+21:04:45	Warning: 	Moved Permanently for p1r0r.com/?p=4887
+21:04:45	Warning: 	File has moved from p1r0r.com/?p=4887 to http://p1r0r.com/un-desarrollo-fantastico
+21:04:46	Warning: 	Moved Permanently for p1r0r.com/?p=4857
+21:04:46	Warning: 	File has moved from p1r0r.com/?p=4857 to http://p1r0r.com/cadenas-cadenas-cadenas
+21:04:54	Warning: 	Moved Permanently for p1r0r.com/?p=4853
+21:04:54	Warning: 	File has moved from p1r0r.com/?p=4853 to http://p1r0r.com/esa-terrible-linea-amarilla
+21:04:57	Warning: 	Moved Permanently for p1r0r.com/?p=4869
+21:04:57	Warning: 	File has moved from p1r0r.com/?p=4869 to http://p1r0r.com/nanni-moretti-2
+21:05:08	Error: 	"Not Found" (404) at link p1r0r.com/category/audiovisual (from p1r0r.com/en/en-blog/page/3)
+21:05:08	Error: 	"Not Found" (404) at link p1r0r.com/category/3d (from p1r0r.com/en/en-blog/page/4)
+21:05:08	Error: 	"Not Found" (404) at link p1r0r.com/category/animation (from p1r0r.com/en/en-blog/page/4)
+21:05:08	Error: 	"Incorrect length (1143536 Bytes, 1341051 expected)" (-4) after 2 retries at link p1r0r.com/wp-content/uploads/2018/03/Al_Yazirat_recreación_011.png (from p1r0r.com/blog)
+21:05:09	Warning: 	Moved Permanently for p1r0r.com/?p=4847
+21:05:09	Warning: 	File has moved from p1r0r.com/?p=4847 to http://p1r0r.com/patron-patronero
+21:05:10	Warning: 	Moved Permanently for p1r0r.com/?p=4861
+21:05:10	Warning: 	File has moved from p1r0r.com/?p=4861 to http://p1r0r.com/changing-places-2
+21:05:12	Warning: 	Moved Permanently for p1r0r.com/?p=4061
+21:05:12	Warning: 	File has moved from p1r0r.com/?p=4061 to http://p1r0r.com/portfolio/retratos
+21:05:12	Warning: 	Moved Permanently for p1r0r.com/?p=4957
+21:05:12	Warning: 	File has moved from p1r0r.com/?p=4957 to http://p1r0r.com/portfolio/still-2
+21:05:12	Warning: 	Moved Permanently for p1r0r.com/?p=4959
+21:05:12	Warning: 	File has moved from p1r0r.com/?p=4959 to http://p1r0r.com/portfolio/temaflor-2
+21:05:12	Warning: 	Moved Permanently for p1r0r.com/?p=3727
+21:05:12	Warning: 	File has moved from p1r0r.com/?p=3727 to http://p1r0r.com/en/nanni-moretti
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/category/sport (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/cinema (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/filmmaker (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/independence (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/left (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/movie (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/nanni-moretti (from p1r0r.com/en/nanni-moretti)
+21:05:12	Error: 	"Not Found" (404) at link p1r0r.com/tag/swimming (from p1r0r.com/en/nanni-moretti)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/waterpolo (from p1r0r.com/en/nanni-moretti)
+21:05:13	Warning: 	Retry after error -4 (Connect Error) at link s1.cinema.com/image_lib/634_5770.jpg (from p1r0r.com/en/how-to-be-a-clown-manual)
+21:05:13	Warning: 	Moved Permanently for p1r0r.com/?p=3802
+21:05:13	Warning: 	File has moved from p1r0r.com/?p=3802 to http://p1r0r.com/en/blinky
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/category/technology (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/category/vfx (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/3d (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/animation (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/creepy (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/future (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/robot (from p1r0r.com/en/blinky)
+21:05:13	Error: 	"Not Found" (404) at link p1r0r.com/tag/sciencefiction (from p1r0r.com/en/blinky)
+21:05:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/shortfilm (from p1r0r.com/en/blinky)
+21:05:14	Warning: 	Moved Permanently for p1r0r.com/?p=3722
+21:05:14	Warning: 	File has moved from p1r0r.com/?p=3722 to http://p1r0r.com/en/8bit
+21:05:14	Error: 	"Not Found" (404) at link p1r0r.com/tag/supinfocom (from p1r0r.com/en/8bit)
+21:05:34	Error: 	"Connect Error" (-4) after 2 retries at link s1.cinema.com/image_lib/634_5770.jpg (from p1r0r.com/en/how-to-be-a-clown-manual)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 4 minutes 3 seconds : 1717 links scanned, 1487 files written (101799869 bytes overall) [93038708 bytes received at 24209 bytes/sec], 16863569 bytes transferred using HTTP compression in 468 files, ratio 28%, 5.8 requests per connection
+(61 errors, 263 warnings, 0 messages)

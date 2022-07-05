@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.crazyhdsource.com	TRUE	/	FALSE	1999999999	__cfduid	de24697aa019823ce5c7ff381df50e5351614369830
+img.crazyhdsource.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.bookmyshow.com	TRUE	/	FALSE	1999999999	__cfduid	d430d51e0ba0725d20126fd61ff1202591614370925
+in.bookmyshow.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.tempostretto.it	TRUE	/	FALSE	1999999999	SRV	1|YDlb7
+nordicnoir.tv	TRUE	/	FALSE	1999999999	BIGipServerlinweb.ottreg.real.atlas.pool	2333413130.17183.0000
+.thisiscolossal.com	TRUE	/	FALSE	1999999999	__cfduid	d8528aaaccb4a3ae8717c2d9d7bb63ade1614372623
+www.thisiscolossal.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
